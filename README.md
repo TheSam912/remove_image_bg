@@ -1,4 +1,4 @@
-# r
+# worked with remove.bg website to remove background of any image user selected from gallery or picture from camera
 
 A new Flutter project.
 
